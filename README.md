@@ -16,4 +16,4 @@ Example:
 ```
 
 ## Credits
-* [Roy](https://gflclan.com/profile/1-roy/) (Christian Deacon) - Creator.
+* [Christian Deacon](https://www.linkedin.com/in/christian-deacon-902042186/) - Creator.
